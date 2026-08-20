@@ -1,0 +1,2 @@
+# Ignore the nested Website/ subfolder — it is a separate project, not part of this repo
+Website/
