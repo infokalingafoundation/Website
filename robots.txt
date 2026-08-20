@@ -1,0 +1,13 @@
+# robots.txt — Kalinga Research and Technology Foundation (KRTF)
+# Replace the Sitemap URL with your actual production domain.
+
+User-agent: *
+Allow: /
+Disallow:
+
+# Block common sensitive paths (not applicable for single-page, but good practice)
+Disallow: /.git/
+Disallow: /.env
+
+# Point crawlers to the sitemap
+Sitemap: https://kalingaresearchfoundation.org/sitemap.xml

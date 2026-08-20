@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+          http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!--
+    Sitemap for Kalinga Research and Technology Foundation (KRTF)
+    Domain: https://kalingaresearchfoundation.org
+    Replace domain with your actual production URL before submitting to Google Search Console.
+    Add additional <url> entries when new pages are created.
+  -->
+  <url>
+    <loc>https://kalingaresearchfoundation.org/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
